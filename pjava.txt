@@ -1,0 +1,7 @@
+package nguyenxuandat_project;
+
+public class NguyenXuanDat_App{
+	public static void main(String[] args) {
+		System.out.println("Nguyen Xuan Dat hoc Java");
+	} 
+}   
